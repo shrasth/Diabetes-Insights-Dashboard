@@ -10,11 +10,12 @@ It provides data-driven insights to support public health analytics and preventi
 
 ## 📊 Key Features
 - Cleaned and modeled the BRFSS dataset using Power Query and SQL 
-- Built data relationships and DAX measures to calculate metrics:
+- Built data relationships and DAX measures to calculate metrics such as:
   - Diabetes %
   - Average BMI
   - High BP / High Cholesterol %
   - Physical Activity %
+    
 - Designed a 3-page Power BI dashboard for rich exploration:
   1. Overview: Key diabetes indicators and demographic breakdown  
   2. Drivers of Diabetes: Lifestyle, BMI, and chronic condition correlations  
