@@ -35,7 +35,7 @@ It provides data-driven insights to support public health analytics and preventi
 ## 🛠️ Tools & Technologies
 | Tool | Purpose |
 |------|----------|
-| **Power BI** | Dashboard creation, DAX measures, modeling |
-| **SQL** | Data extraction, cleaning, and transformation |
-| **Excel / Power Query** | Data preprocessing and integration |
-| **BRFSS 2015 Dataset** | Source health survey data (CDC, USA) |
+| Power BI | Dashboard creation, DAX measures, modeling |
+| SQL | Data extraction, cleaning, and transformation |
+| Excel / Power Query | Data preprocessing and integration |
+| BRFSS 2015 Dataset | Source health survey data (CDC, USA) |
